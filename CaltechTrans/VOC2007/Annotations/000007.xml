@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>JPEGImages</folder>
+  <filename>000007</filename>
+  <path>C:\Users\pc2\Desktop\VOC2007\JPEGImages\000007.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>500</width>
+    <height>667</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>watch</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>121</xmin>
+      <ymin>198</ymin>
+      <xmax>365</xmax>
+      <ymax>451</ymax>
+    </bndbox>
+  </object>
+</annotation>
