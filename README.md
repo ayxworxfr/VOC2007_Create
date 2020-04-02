@@ -8,7 +8,7 @@
 
 
 
-可以tzutalin提供的[labelimg](https://github.com/tzutalin/labelImg)工具，制作xml文件
+可以使用tzutalin提供的[labelimg](https://github.com/tzutalin/labelImg)工具，制作xml文件
 
 参考文献：
 
